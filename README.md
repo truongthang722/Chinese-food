@@ -1,2 +1,2 @@
 # Chinese-food
-Learning abou Chinese Foods
+Learning about Chinese Foods
